@@ -1,0 +1,27 @@
+Challenge record name,Database,Original record name,Diagnosis,Class (-1=normal 1=abnormal),# Beat (automated algorithm),# Beats requiring hand correction,Gender,Age (year),Height (m),Weight (kg),BMI,Smoker,Degree of disease,Subject ID,# Raw record,# Recording in each subject,Transducer site on body,Recording state,Murmurs (2=None 3=Weak 4=Strong 6=Unclear),"Murmur Location (2=Sys,3=Dia,4=Both)",Arrhythmia (2=None 3=One arrhythmic beat 4=Medium Arrhytmia 5=Severe Arrhytmia 6=Unclear 7=Two arrhythmic beats),Respiration noise (2=None 3=Insignificant 4=Weak Resp. Noise<2 s 5=Weak Resp. Noise<3 s 6=Weak Resp. Noise <4 s 7=Weak Resp. Noise >4 s 8=Powerfull Resp. Noise<2 s 9=Powerfull Resp. Noise<3 s 10=Powerfull Resp. noise <4 s  11=Powerfull Resp. Noise >4 s 12=Dont know 13=Weak Resp. Noise<1 s 14=Resp. Noise<1 s 15=Powerfull Resp. noise <1 s 16=Weak Rec. Noise<1 s 17=Powerfull Rec. Noise<1 s),Ambient noise (2=None 3=Insignificant 4=Weak Rec. BG<2 s 5=Weak Rec. BG<3 s 6=Weak Rec. BG <4 s 7=Weak Rec. BG >4 s 8=BG. Noise<2 s 9=BG. Noise<3 s 10= BG. noise <4 s 11=BG. Noise >4 s 12=Powerfull BG. Noise<2 s 13=Powerfull BG. Noise<3 s 14=Powerfull BG. noise <4 s  15=Powerfull BG. Noise >4 s 16=Dont know 17=Weak BG. Noise<1 s  18=BG.Noise<1 s 19=Powerfull BG. Noise<1 s),Recording noise (2=None 3=Insignificant 4=Beg. Rec. Noise 5=End Rec. Noise 6=Beg-End Reco Noise 7=Weak Rec. Noise<2 s 8=Weak Rec. Noise<3 s 9=Weak Rec. Noise <4 s 10=Weak Rec. Noise >4 s 11=Powerfull Rec. Noise<2 s 12=Powerfull Rec. Noise<3 s 13=Powerfull Rec. noise <4 s 14=Powerfull Rec. Noise >4 s 15=Spikes 16=Dont know 17=Weak Rec. Noise<1 s 18=Powerfull Rec. Noise<1 s),Abdominal sounds (2=None 3=Insignificant 4=Sto. Noise<2 s 5=Sto. Noise<3 s 6=Sto. Noise <4 s 7=Sto. Noise >4 s 8=Dont know 9=Sto. Noise<1 s)
+b0013,training-b,S44f6_data,CAD,Abnormal,9,0,M,,,,,,,44.0,,6.0,,,Absent,0.0,2.0,11.0,3.0,3.0,2.0
+b0043,training-b,S34f3_data,CAD,Abnormal,9,1,M,,,,,,,34.0,,3.0,,,Absent,0.0,3.0,4.0,3.0,3.0,3.0
+b0046,training-b,S52f1_data,CAD,Abnormal,8,0,M,,,,,,,52.0,,1.0,,,Absent,0.0,2.0,3.0,6.0,3.0,2.0
+b0057,training-b,S34f6_data,CAD,Abnormal,4,4,M,,,,,,,34.0,,6.0,,,Absent,0.0,2.0,2.0,17.0,3.0,2.0
+b0096,training-b,S44f3_data,CAD,Abnormal,9,0,M,,,,,,,44.0,,3.0,,,Absent,0.0,2.0,11.0,3.0,11.0,2.0
+b0117,training-b,S89f1_data,CAD,Abnormal,10,0,M,,,,,,,89.0,,1.0,,,Absent,0.0,2.0,3.0,3.0,8.0,2.0
+b0120,training-b,S89f3_data,CAD,Abnormal,11,11,M,,,,,,,89.0,,3.0,,,Absent,0.0,2.0,3.0,3.0,10.0,2.0
+b0159,training-b,S14f3_data,CAD,Abnormal,7,7,M,,,,,,,14.0,,3.0,,,Absent,0.0,2.0,3.0,11.0,2.0,2.0
+b0190,training-b,S49f3_data,CAD,Abnormal,6,1,M,,,,,,,49.0,,3.0,,,Absent,0.0,2.0,10.0,3.0,2.0,2.0
+b0208,training-b,S49f6_data,CAD,Abnormal,6,0,M,,,,,,,49.0,,6.0,,,Absent,0.0,2.0,5.0,3.0,10.0,3.0
+b0224,training-b,S14f4_data,CAD,Abnormal,7,7,M,,,,,,,14.0,,4.0,,,Absent,1.0,2.0,2.0,3.0,3.0,2.0
+b0232,training-b,S14f1_data,CAD,Abnormal,7,7,M,,,,,,,14.0,,1.0,,,Absent,0.0,2.0,3.0,4.0,3.0,2.0
+b0257,training-b,S52f2_data,CAD,Abnormal,9,0,M,,,,,,,52.0,,2.0,,,Absent,0.0,2.0,3.0,3.0,3.0,3.0
+b0279,training-b,S52f4_data,CAD,Abnormal,8,0,M,,,,,,,52.0,,4.0,,,Absent,0.0,2.0,3.0,7.0,3.0,3.0
+b0284,training-b,S89f4_data,CAD,Abnormal,11,11,M,,,,,,,89.0,,4.0,,,Absent,0.0,2.0,3.0,3.0,9.0,3.0
+b0295,training-b,S49f5_data,CAD,Abnormal,6,0,M,,,,,,,49.0,,5.0,,,Absent,0.0,2.0,8.0,3.0,10.0,3.0
+b0307,training-b,S14f5_data,CAD,Abnormal,7,1,M,,,,,,,14.0,,5.0,,,Absent,0.0,3.0,2.0,8.0,3.0,2.0
+b0334,training-b,S49f2_data,CAD,Abnormal,6,0,M,,,,,,,49.0,,2.0,,,Absent,0.0,2.0,9.0,5.0,3.0,2.0
+b0341,training-b,S44f4_data,CAD,Abnormal,9,0,M,,,,,,,44.0,,4.0,,,Absent,0.0,2.0,11.0,3.0,3.0,9.0
+b0344,training-b,S52f3_data,CAD,Abnormal,8,0,M,,,,,,,52.0,,3.0,,,Absent,0.0,2.0,3.0,3.0,3.0,3.0
+b0361,training-b,S89f6_data,CAD,Abnormal,11,11,M,,,,,,,89.0,,6.0,,,Absent,0.0,2.0,3.0,2.0,14.0,3.0
+b0365,training-b,S89f5_data,CAD,Abnormal,11,11,M,,,,,,,89.0,,5.0,,,Absent,0.0,2.0,3.0,3.0,9.0,2.0
+b0422,training-b,S89f2_data,CAD,Abnormal,10,0,M,,,,,,,89.0,,2.0,,,Absent,0.0,2.0,3.0,3.0,15.0,2.0
+b0444,training-b,S49f4_data,CAD,Abnormal,6,6,M,,,,,,,49.0,,4.0,,,Absent,0.0,2.0,5.0,18.0,3.0,3.0
+b0467,training-b,S14f6_data,CAD,Abnormal,7,5,M,,,,,,,14.0,,6.0,,,Absent,0.0,2.0,3.0,7.0,3.0,3.0
+b0468,training-b,S49f1_data,CAD,Abnormal,6,0,M,,,,,,,49.0,,1.0,,,Absent,0.0,2.0,11.0,3.0,3.0,3.0
